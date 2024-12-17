@@ -40,5 +40,5 @@ Device name: PC2
 Device model: PC-PT
 IP Address: 169.254.227.228
 
-
+end of document
 
